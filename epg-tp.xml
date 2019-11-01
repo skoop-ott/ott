@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+<channel id="hbo.eastern.us" icon="https://logo.koditvepg.com/US/hbo.eastern.us.png">HBO - Eastern Feed US</channel>
+<channel id="hbo.eastern.us"><display-namelang="*">HBO - Eastern Feed US</display-name></channel>
+<ch tvg="hbo.eastern.us" name="HBO - Eastern Feed US" logo="https://logo.koditvepg.com/US/hbo.eastern.us.png" cat="USA MOVIE NETWORKS"/>
+<channel id="fxx.usa.eastern.us" icon="https://logo.koditvepg.com/US/fxx.usa.eastern.us.png">FXX USA - Eastern US</channel>
+<channel id="fxx.usa.eastern.us"><display-namelang="*">FXX USA - Eastern US</display-name></channel>
+<ch tvg="fxx.usa.eastern.us" name="FXX USA - Eastern US" logo="https://logo.koditvepg.com/US/fxx.usa.eastern.us.png" cat="USA NETWORK TV"/>
+</templates>
